@@ -1,0 +1,6 @@
+framework module Pods_randomUserApi {
+  umbrella header "Pods-randomUserApi-umbrella.h"
+
+  export *
+  module * { export * }
+}
